@@ -2,7 +2,7 @@ print("Hello")
 
 
 def sayBye():
-    print("Bye")
+    print("Bye and Take Care")
     
     
 sayBye()
